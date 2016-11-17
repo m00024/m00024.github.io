@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+
+<title> hello world </title>
+
+<style>
+
+	body {background-color:orange}
+	h1   {color:DarkRed;font-size:300%}
+	p    {color:Blue; font-size:500%}
+	small{font-size:60%}
+	
+	
+
+</style>
+</head>
+
+<body>
+
+<p>click here to find out more about the</p>
+<!--<a href = "http://en.wikipedia.org/wiki/Bah%C3%ADa_Soledad_Airstrip/">Bahía Soledad Airstrip</a>-->
+
+<h1><u><center><b>Dynamite</b></center></u></h1>
+
+<p> Dope your dynamite with NH<small>4</small> NO<small>3</small> for an extra boost!</p>
+
+<img src="explosion.gif" alt="explosion" style="width:360px;height:231px">
+
+</body>
+
+
+
+
+
+</html>
