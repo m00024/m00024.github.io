@@ -1,8 +1,11 @@
 
-body {background-color:orange}
-h1   {color:DarkRed;font-size:300%}
-p1   {color:Blue; font-size:500%}
-p2   {color:Green; font-size:100%}
-p3   {color:Blue; font-size:100%}
-a    {color:Green; font-size:100%}
-small{font-size:60%}
+body
+{
+background-color:orange
+h1:color:DarkRed;font-size:300%
+p1:color:Blue; font-size:500%
+p2:color:Green; font-size:100%
+p3:color:Blue; font-size:100%
+a:color:Green; font-size:100%
+small:font-size:60%
+}
